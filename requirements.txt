@@ -1,0 +1,5 @@
+streamlit==1.0.0
+arxiv==1.4.2
+requests==2.22.0
+numpy==1.17.4
+paperswithcode_client==0.2.2
